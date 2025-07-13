@@ -23,16 +23,3 @@ import './Time.css'
 
 
  
-//  function Time() {
-//     const [Count, setCount] = useState()
-//    return (
-//        <>
-//            <button onClick={() => setCount("Hi")}>Show</button>
-//         <button onClick={()=>setCount(" ")}>Hide</button>
-//            <h1>{Count}</h1>   
-       
-//        </>
-//    )
-//  }
- 
-//  export default Time
